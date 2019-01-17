@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Statistics on Gray is colorful </title>
+    <link>/tags/statistics/</link>
+    <description>Recent content in Statistics on Gray is colorful </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Rei Sayag</copyright>
+    <lastBuildDate>Wed, 16 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Statistics and wars -- on the number of civilian casualties in Gaza</title>
+      <link>/2019/01/16/2019-01-16-statistics-and-wars-on-the-number-of-civilian-casualties-in-gaza/</link>
+      <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/01/16/2019-01-16-statistics-and-wars-on-the-number-of-civilian-casualties-in-gaza/</guid>
+      <description>Originally published on August 7, 2014 at grayiscolorful.blogspot.com
+A cautionary note: this may be a bit of a sensitive topic to have for a first blog post.
+During the last couple of days I encountered a couple of analyses questioning the official figures given in the media about Palestinian civilian casualties during the period of operation Protective Edge in Gaza. Currently, the UN puts the death toll at a minimum of 72% and Gazan groups at 82% and 84%.</description>
+    </item>
+    
+  </channel>
+</rss>

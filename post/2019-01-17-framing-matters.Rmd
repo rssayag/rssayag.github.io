@@ -1,0 +1,51 @@
+---
+title: Framing matters
+author: Rei Sayag
+date: '2019-01-17'
+slug: framing-matters
+categories: []
+tags:
+  - economics
+  - experiment
+  - framing
+  - game theory
+  - psychology
+description: ''
+---
+
+```{r echo = FALSE}
+
+library(knitr)
+
+```
+
+*Originally published on January 13, 2016 at grayiscolorful.blogspot.com*
+
+
+Would you rather contribute to a charity with the goal of saving children's lives or to a charity that aims at preventing the deaths of children? &nbsp;
+
+```{r echo = FALSE, fig.align='center'}
+
+include_graphics('/post/2019-01-17-framing-matters_files/framing2.jpg')
+
+```
+
+Both charities' goals are identical, but many would prefer to contribute to the second charity rather to the first one. The first charity's goal is framed as making a gain while the second is framed as preventing a loss. Since people tend to focus on losses more than on gains, the second charity's cause feels more urgent.
+
+What is healthier? A burger which is 75% lean or one that is 25% fat? Again, both burgers are identical but people rank the 75% lean burger as far&nbsp;<a href="http://www.sciencedirect.com/science/article/pii/S0950329398000172" target="_blank">better</a>.
+
+This phenomenon, in which decisions can be strongly affected by the description of a situation is called framing. As with charities, framing can have a strong effect on individual actions in many social situations. For example, a 'community meeting' may reach more amicable results than a 'stakeholder meeting'. A few days ago, I was strongly reminded of that in a class experiment I conducted in my Game Theory course.
+
+In this simple experiment I let students taking the course play a <a href="https://en.wikipedia.org/wiki/Dictator_game" target="_blank">dictator game</a>. In this game students are put in groups of two, where only one of them (the 'dictator') decides how to split a hypothetical sum of 10 Euros. This experiment mirrors some aspects of real life decisions facing people, such as charitable giving or helping a stranger. I randomly presented students with two versions of this game -- one named 'the dictator game' and the other 'the sharing game'. 
+
+```{r echo = FALSE, fig.align='center'}
+
+include_graphics('/post/2019-01-17-framing-matters_files/Dictator vs Sharing.jpg')
+
+```
+
+The graph above presents the fraction of students choosing to keep different amounts of money. The black line shows the distribution of students' choice in the dictator version and the blue line the distribution of students' choice in the sharing game. The difference in the students' choice of how much of the sum to keep is clearly visible (it is also statistically significant). In the dictator version almost all students demonstrated a selfish (or rational) behavior, deciding to take the full sum of 10 Euros for themselves. In the sharing game on the other hand, almost half the students decided to share the sum equally with the other student in their group. Even being familiar with the framing bias, I was surprised to find such a strong effect of this simple change in the game's description.
+
+Since framing can have large effects even in the simplest of environments it shouldn't be a surprise that framing is used all around us -- supermarkets place their low priced 'own brand' next to the highest priced premium brand, internet providers offer a special discounts on their (much pricier) high-speed services, and pollsters adjust their questions to reach a desired answer.
+
+<i>Sidenote:</i>&nbsp;While framing is a well established phenomenon, the results of the class experiment should be taken with a few grains of salt.&nbsp;<a href="http://link.springer.com/article/10.1007/s10683-012-9341-9" target="_blank">Dreber et al.</a>&nbsp;find no effect of social framing on behavior in a dictator game, using a much larger number of participants than in my class experiment. &nbsp;

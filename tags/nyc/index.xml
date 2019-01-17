@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nyc on Gray is colorful </title>
+    <link>/tags/nyc/</link>
+    <description>Recent content in Nyc on Gray is colorful </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Rei Sayag</copyright>
+    <lastBuildDate>Thu, 17 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/nyc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Which are the fastest (and slowest) running countries in the world?</title>
+      <link>/2019/01/17/2019-01-17-which-are-the-fastest-and-slowest-running-countries-in-the-world/</link>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/01/17/2019-01-17-which-are-the-fastest-and-slowest-running-countries-in-the-world/</guid>
+      <description>Originally published on March 3, 2016 at grayiscolorful.blogspot.com
+As running becomes more and more popular around the world, the need to rank countries by the speed of their runners is clearly needed. Why should I care you ask? It’s a good point you’re making I’d retort, but we seem to like ranking of all sorts of things so why not? We rank countries by feelings of love, Cities by bike-friendliness, and even professions by right swipes.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,75 @@
+---
+title: 'I, We or no one: Who wrote that paper? (Economists edition)'
+author: Rei Sayag
+date: '2019-01-17'
+slug: i-we-or-no-one-who-wrote-that-paper-economists-edition
+categories: []
+tags:
+  - article
+  - economics
+  - pronoun
+  - writing
+description: ''
+---
+
+```{r echo = FALSE}
+
+library(knitr)
+
+```
+
+*Originally published on October 27, 2014 at grayiscolorful.blogspot.com*
+
+Have you ever written a academic paper as a single author? Did you ever struggle how to find the correct wording to describe the paper? What do most authors do? Have that changed over time? What do experienced authors do?
+
+
+```{r echo = FALSE, fig.align='center'}
+
+include_graphics('/post/2019-01-17-i-we-or-no-one-who-wrote-that-paper-economists-edition_files/papers.jpg')
+
+```
+
+
+Whether it was for a course assignment or a peer-reviewed article, at some point you were&nbsp;<a href="https://www.google.com/search?q=pronouns+in+academic+writing" target="_blank">probably told</a>&nbsp;that&nbsp;neutral and passive writing is preferred. You should write something like 'The physics of&nbsp;<a href="http://www.slate.com/articles/business/how_failure_breeds_success/2014/05/nobel_prize_in_physics_andre_geim_went_from_levitating_frogs_to_science.html" target="_blank">frog levitation</a>&nbsp;is described', which should sound objective, stressing the subject discussed rather than the author doing the discussion. Another possibility would be to use first-person singular pronouns -- as in 'I describe the physics behind frog levitation'. Some feel that this choice overly stresses the actions taken by the author, overly&nbsp;<a href="http://english.stackexchange.com/questions/24629/use-of-i-we-and-the-passive-voice-in-a-scientific-thesis" target="_blank">glorifying herself</a>. The third possibility is using first-person plural -- as in 'We describe the physics behind frog levitation'. This choice supposes to feel participative, as if the author and the audience are collaborating.
+
+Wondering what people actually choose to do, I turned to the <a href="http://www.repec.org/" target="_blank">REPEC</a>&nbsp;database on economic papers. This database is pretty great for the kind of questions I look at in this post! First, it contains much data on individual authors. Second, in Economics it is common (relative to other fields) for papers to be single authored. I scraped about 60,000 abstract of articles published in Economics journals over the last 30 years and checked whether no pronouns were used (passive), first-person singular pronouns were used, or first-person plural pronouns were used. To the best of my knowledge, there is no real consensus in the field of Economics about which should be used, as seen in the back-alleys of economic discourse <a href="http://www.econjobrumors.com/topic/solo-authored-paper-use-i-or-we" target="_blank">here</a>,&nbsp;<a href="http://www.econjobrumors.com/topic/i-or-we" target="_blank">here</a>, and&nbsp;<a href="http://www.econjobrumors.com/topic/choice-of-i-or-we-in-solo" target="_blank">here</a>.
+
+Before checking what single authors alone do, I start with seeing what pronouns all articles (single-authored or not) use. The following graph tracks the change in the usage of first-person in Economics articles over time.
+
+
+```{r echo = FALSE, fig.align='center'}
+
+include_graphics('/post/2019-01-17-i-we-or-no-one-who-wrote-that-paper-economists-edition_files/fraction_economic_papers.png')
+
+```
+
+
+We can see that while in the 1980s and 1990s it was very common for most authors to use the recommended 'objective' writing style in published articles, by 2010 the state is reversed -- about 80% of all articles use first-person pronouns (singular and plural). I wonder if this trend is connected to the general decrease in formality over the years.
+
+Now lets look only at single-authored articles. The next graph follows the fraction of articles using passive, first-person singular, and first-person plural pronouns over time.
+
+
+```{r echo = FALSE, fig.align='center'}
+
+include_graphics('/post/2019-01-17-i-we-or-no-one-who-wrote-that-paper-economists-edition_files/fraction_single_authored.png')
+
+```
+
+
+We can see that there is a similar trend for single-authored articles, where the fraction of articles written passively is decreasing (the blue line). Nonetheless, even in 2014, almost half of single-authored papers are still using passive writing. The rest of the articles are split about half and half between using singular (e.g. I) and plural (e.g. We). It looks as if single authors, not knowing whether and what pronoun to use, go for the safe, passive, option.
+
+What do experienced, well-published single authors do? Are they more confident and use 'I' more often? Or are they perhaps more traditional, using passive writing more often?
+
+
+```{r echo = FALSE, fig.align='center'}
+
+include_graphics('/post/2019-01-17-i-we-or-no-one-who-wrote-that-paper-economists-edition_files/fraction_by_citations.png')
+
+```
+
+
+In this graph we see the effect of authors' citation count on the fraction of articles using pronouns or passive writing. An author's citation count is a good proxy for experience and quality as it should generally increase with both. Also, to control for age effects (in case older authors got used to write passively when starting their career), we look only at authors who started their academic career in 2000 or later. It is clear in the graph that the better published an author is, the more likely is she to use first-person singular. One reason may be that a well-published author has no problem to appear a bit arrogant. Another is that such author is simply more confident. A third option is that well-published authors come disproportionately from top schools, where it may be more common to use singular pronouns. 
+
+In any case.. what will you do the next time you write an single-authored academic paper?
+
+

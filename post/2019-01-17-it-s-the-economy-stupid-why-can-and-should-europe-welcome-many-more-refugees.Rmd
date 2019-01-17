@@ -1,0 +1,54 @@
+---
+title: 'It''s the economy stupid: Why can (and should) Europe welcome many more refugees'
+author: Rei Sayag
+date: '2019-01-17'
+slug: it-s-the-economy-stupid-why-can-and-should-europe-welcome-many-more-refugees
+categories: []
+tags:
+  - crisis
+  - economics
+  - immigration
+  - refugees
+description: ''
+---
+
+
+```{r echo = FALSE}
+
+library(knitr)
+
+```
+
+*Originally published on September 16, 2015 at grayiscolorful.blogspot.com*
+
+How many refugees can European countries reasonably take? How many should they take? Although some on the European right believe the answer is&nbsp;<a href="http://www.reuters.com/article/2015/09/03/us-europe-migrants-orban-idUSKCN0R30J220150903" target="_blank">none</a>, most agree that some refugees must be accepted.&nbsp;
+
+```{r echo = FALSE, fig.align='center'}
+
+include_graphics('/post/2019-01-17-it-s-the-economy-stupid-why-can-and-should-europe-welcome-many-more-refugees_files/refugees.jpg')
+
+```
+
+To look at the burden refugees place on host countries, some (<a href="http://www.vox.com/2015/9/15/9331371/syrian-refugees-europe-chart" target="_blank">Vox</a>,&nbsp;<a href="http://www.economist.com/blogs/graphicdetail/2015/09/daily-chart" target="_blank">The Economist</a>) look at the number of refugees taken by countries relatively to those countries' population size. This makes intuitive sense -- for example, the more populated a country is the more people work per refugee, the lower is the burden of integration on individual communities, and the more secure people are that their country's culture is not altered. Nonetheless, a more direct approach to measuring countries' ability to accept refugees is being dismissed -- the size of their economy. An economy's size is a good proxy for the amount of resources a country can employ if it so wishes to. The richer a country is the easier it should be for it to welcome refugees, regardless of its population size.
+
+The blue and red charts bellow are reproductions of the charts presented by&nbsp;<a href="http://www.economist.com/blogs/graphicdetail/2015/09/daily-chart" target="_blank">The Economist</a>. They present data on the&nbsp;number of positive decisions taken on asylum applications by European countries in 2014 (Source:&nbsp;<a href="http://ec.europa.eu/eurostat/en/web/products-data-in-focus/-/KS-QA-15-003" target="_blank">Eurostat</a>, OECD). The blue chart shows that Germany leads the group with the highest number of asylum seekers accepted. The red chart shows the same data proportional to countries' population. Using this measure, we see that Sweden is by far the most accepting relatively to its population. Germany's welcoming attitude to refugees seems much less impressive now. I added the orange chart, showing this data proportional to countries' GDP at purchasing power parity. While the change is not drastic, we can suddenly notice Bulgaria's commendable efforts given its poor status in Europe. Less inspiring, we can also see that Germany only took in about 15 asylum seekers for each 1 billion US dollars of economic activity. At an <a href="http://www.dw.com/en/what-helping-refugees-costs-germany/a-18693996" target="_blank">estimated cost</a> of 15,000 USD per asylum seeker per year, we find that Germany spent about 0.1% of its GDP on asylum seekers.
+
+```{r echo = FALSE, fig.align='center'}
+
+include_graphics('/post/2019-01-17-it-s-the-economy-stupid-why-can-and-should-europe-welcome-many-more-refugees_files/rankings charts.png')
+
+```
+
+More importantly, we can now gain a different perspective on the manner in which Europe can manage the recent refugee crisis. Lets look at the change over time in the burden of refugees on countries relative to the size of their population and economy. For example, it was said that this refugee crisis is the&nbsp;<a href="http://www.migrationpolicy.org/article/top-10-2014-issue-1-world-confronts-largest-humanitarian-crisis-wwii" target="_blank">worst Europe has faced since WW2</a>. That may very well be correct when we look at the <b>number</b>&nbsp;of refugees, but not when we consider Europe's available resources in handling the wave of refugees.
+
+```{r echo = FALSE, fig.align='center', fig.width=10}
+
+include_graphics('/post/2019-01-17-it-s-the-economy-stupid-why-can-and-should-europe-welcome-many-more-refugees_files/trends.png')
+
+```
+
+The charts above show the relative burden of refugees over time on Germany, The Netherlands, and Spain. Most European countries show similar trends. The left chart shows the burden relative to <b>population size</b>. As the Netherlands' population increased from 13,000,000 to 17,000,000 between 1970 and 2012, a refugee accepted in 2012 places about 80% of the burden on the Netherlands relatively to a refugee accepted in 1970. The reason is that population has grown only little in Europe during that time.
+
+The right chart presents the relative change in <b>economic</b>&nbsp;burden. Using this measure we can see that a refugee in 2014 places only 10% (!!!!) of the burden on the Dutch economy relatively to a refugee accepted in 1970. It is then wrong to compare this refugee crisis to past immigration waves as if it was an apples to apples situation. In reality, Europe is much better equipped than ever before to take in and integrate the many refugees escaping a grim existence. It should do so. 
+
+<i>One sidenote</i>: In this post I only consider refugees as a burden on their host countries. This is only a partial view of the reality surrounding immigration. This is especially the case with Europe since European countries are aging rapidly and hence require a younger working force to sustain the economy. In the longer run, these refugees may actually <a href="http://www.usnews.com/news/blogs/data-mine/2015/09/15/would-syrian-refugees-be-an-economic-boon-or-burden" target="_blank">contribute </a>to their host countries' economy.

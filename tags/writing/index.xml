@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Writing on Gray is colorful </title>
+    <link>/tags/writing/</link>
+    <description>Recent content in Writing on Gray is colorful </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Rei Sayag</copyright>
+    <lastBuildDate>Thu, 17 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/writing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>I, We or no one: Who wrote that paper? (Economists edition)</title>
+      <link>/2019/01/17/2019-01-17-i-we-or-no-one-who-wrote-that-paper-economists-edition/</link>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/01/17/2019-01-17-i-we-or-no-one-who-wrote-that-paper-economists-edition/</guid>
+      <description>Originally published on October 27, 2014 at grayiscolorful.blogspot.com
+Have you ever written a academic paper as a single author? Did you ever struggle how to find the correct wording to describe the paper? What do most authors do? Have that changed over time? What do experienced authors do?
+Whether it was for a course assignment or a peer-reviewed article, at some point you were probably told that neutral and passive writing is preferred.</description>
+    </item>
+    
+    <item>
+      <title>I, We, or no one: Does gender matter?</title>
+      <link>/2019/01/17/2019-01-17-i-we-or-no-one-does-gender-matter/</link>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/01/17/2019-01-17-i-we-or-no-one-does-gender-matter/</guid>
+      <description>Originally published on February 9, 2016 at grayiscolorful.blogspot.com
+How do writers refer to their own single author work when writing about it? Do they use singular pronouns (e.g. ‘I predict the existence of a 9th planet’), more participative plural pronouns (e.g. ‘Our model fits the observed data’), or avoid pronouns all together (e.g. ‘The paper examines tool usage by parrots’)? Is there a difference between male and female authors?</description>
+    </item>
+    
+  </channel>
+</rss>

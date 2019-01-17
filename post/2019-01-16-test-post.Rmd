@@ -1,0 +1,22 @@
+---
+title: test post
+author: Rei Sayag
+date: '2019-01-16'
+slug: test-post
+categories: ["R"]
+tags:
+  - plot
+---
+
+
+## test post
+
+```{r echo = FALSE}
+
+x <- seq(1,10)
+y <- x^3
+plot(x, y)
+
+```
+
+![flywheel pic](/post/2019-01-16-test-post_files/flywheel.png)

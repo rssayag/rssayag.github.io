@@ -1,0 +1,76 @@
+---
+title: The case for optimism in a crazy world
+author: Rei Sayag
+date: '2019-01-17'
+slug: the-case-for-optimism-in-a-crazy-world
+categories: []
+tags:
+  - development
+  - fatality
+  - gdp
+  - mortality
+description: ''
+---
+
+```{r echo = FALSE}
+
+library(knitr)
+
+```
+
+*Originally published on Septmeber 11, 2014 at grayiscolorful.blogspot.com*
+
+Lately, it seems like the world is increasingly going bananas. The Russian-Ukrainian conflict is bringing back dark echos from the past, ultra-extreme Muslim organizations rise in the middle-east, China is flexing its muscles in south-east Asia, and Europe's economy is sliding back. Nonetheless, if I were asked whether the world will be a better place in 30 years (or 20, or 50, etc.), my response would be a resounding YES. The reason is that the world has always been in a mess of some sorts somewhere in the last 50 years, and despite that it has almost continuously progressed in most measures of quality of life.
+
+
+```{r echo = FALSE, fig.align='center'}
+
+include_graphics('/post/2019-01-17-the-case-for-optimism-in-a-crazy-world_files/smiley.png')
+
+```
+
+Its not that my answer can't be wrong. The world can become worse -- A nuclear war may erupt, a large asteroid may hit the Earth, and a super virus may spread. Also, individual countries can and probably will regress -- Zimbabwe and Syria are good examples. Still, I believe it is much more likely the world as a whole will become better than worse.
+
+I focus in this post on the developed world -- the issue of `miraculous growth in the developing world' has been discussed a lot by now (and it is very much incredible!). Also, the reason for this post is that I&nbsp;recently&nbsp;stumbled upon some surprising statistics about Western countries.
+
+The most commonly used indicator to examine national development is the Gross Domestic Product (GDP) per capita, shown in the next figure for the EU, USA and the Netherlands.
+
+
+```{r echo = FALSE, fig.align='center'}
+
+include_graphics('/post/2019-01-17-the-case-for-optimism-in-a-crazy-world_files/GDP per capita.png')
+
+```
+
+GDP per capita is simply a measure of the total production (whether it is tractors, corn, banking or magic tricks) divided by population size. In general, the more countries produce, the more they can consume and the higher average living standards become. Clearly, there was an enormous increase in total production in the Western world over the last 50 years.
+
+There are a few problems with this measure as an indicator of 'standard of living' though. One is that an increase in average production does not necessarily lead to an increase in the standard of living for the majority of the population -- the gains may only go to a small part of the population. This may have&nbsp;<a href="http://www.economist.com/blogs/freeexchange/2013/09/incomes" target="_blank">happened in the USA</a>&nbsp;and elsewhere.&nbsp;Another problem is that in order to measure GDP economists use market prices. That means that if something is free it does not count in the GDP. For example, many of the freely available services on the internet which make our life better than they were just 10-15 years ago (e.g. video chatting, using Wikipedia, writing blogs) are simply not included in the GDP measure.
+
+So, to make the case for optimism I believe that less abstract indicators than GDP can be useful. And, since I spoke of the 'standards of living', why not look at death related statistics?
+
+Here is a figure presenting the changes in infant mortality rate in the Western world since the 1980s (using the&nbsp;<a href="http://data.worldbank.org/indicator/SP.DYN.IMRT.IN" target="_blank">World Bank data</a>).
+
+```{r echo = FALSE, fig.align='center'}
+
+include_graphics('/post/2019-01-17-the-case-for-optimism-in-a-crazy-world_files/graph_infant_mortality.png')
+
+```
+
+Since I am a product of the 1980s, what I find fascinating in this figure is the improvements done in my own life time. I was about 2-3 times more likely to die before I reached the respected age of one year than a child born today.
+
+Even more staggering is the improvement in road safety in the rich world. Using data from the&nbsp;<a href="http://internationaltransportforum.org/irtadpublic/datasets.html" target="_blank">International transport forum</a>&nbsp;we can see the sharp decline in road fatalities over a relatively short time.
+
+```{r echo = FALSE, fig.align='center'}
+
+include_graphics('/post/2019-01-17-the-case-for-optimism-in-a-crazy-world_files/graph_road_fatalities_combined.png')
+
+```
+
+On the left we see the changes in road fatalities over the last 30 years for the EU, USA and the Netherlands. On the right are the changes in fatalities between 2000 and 2011 for a large number of developed countries.
+
+
+
+Other positive trends can be found in many other areas, such as quality of life in old age and access to health and education. I am thus quite confident that the world, as a whole, will only get better.
+
+<i>Sidenote:</i> crime is another indicator (and a very important one) that has gone down&nbsp;<a href="http://www.theguardian.com/uk-news/2014/aug/31/tough-case-mystery-britains-falling-crime-rate?CMP=fb_gu" target="_blank">dramatically in the last 20 years</a>. Unfortunately, it&nbsp;is difficult to predict whether it will continue on this course as the reasons for this decline are hotly debated.
+
