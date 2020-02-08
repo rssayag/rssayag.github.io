@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Gray is colorful </title>
@@ -7,13 +7,67 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Rei Sayag</copyright>
-    <lastBuildDate>Thu, 17 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Article</title>
+      <title>causal inference</title>
+      <link>/tags/causal-inference/</link>
+      <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/causal-inference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>economics</title>
+      <link>/tags/economics/</link>
+      <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/economics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>/tags/r/</link>
+      <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data science</title>
+      <link>/tags/data-science/</link>
+      <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experiments</title>
+      <link>/tags/experiments/</link>
+      <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/experiments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>testing</title>
+      <link>/tags/testing/</link>
+      <pubDate>Thu, 07 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>article</title>
       <link>/tags/article/</link>
       <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
       
@@ -22,7 +76,7 @@
     </item>
     
     <item>
-      <title>Crisis</title>
+      <title>crisis</title>
       <link>/tags/crisis/</link>
       <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
       
@@ -31,7 +85,7 @@
     </item>
     
     <item>
-      <title>Development</title>
+      <title>development</title>
       <link>/tags/development/</link>
       <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
       
@@ -40,16 +94,7 @@
     </item>
     
     <item>
-      <title>Economics</title>
-      <link>/tags/economics/</link>
-      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/economics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Experiment</title>
+      <title>experiment</title>
       <link>/tags/experiment/</link>
       <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
       
@@ -58,7 +103,7 @@
     </item>
     
     <item>
-      <title>Fatality</title>
+      <title>fatality</title>
       <link>/tags/fatality/</link>
       <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
       
@@ -67,7 +112,7 @@
     </item>
     
     <item>
-      <title>Framing</title>
+      <title>framing</title>
       <link>/tags/framing/</link>
       <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
       
@@ -76,7 +121,7 @@
     </item>
     
     <item>
-      <title>Game Theory</title>
+      <title>game theory</title>
       <link>/tags/game-theory/</link>
       <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
       
@@ -85,7 +130,7 @@
     </item>
     
     <item>
-      <title>Gdp</title>
+      <title>gdp</title>
       <link>/tags/gdp/</link>
       <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
       
@@ -94,7 +139,7 @@
     </item>
     
     <item>
-      <title>Gender</title>
+      <title>gender</title>
       <link>/tags/gender/</link>
       <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
       
@@ -103,7 +148,7 @@
     </item>
     
     <item>
-      <title>Immigration</title>
+      <title>immigration</title>
       <link>/tags/immigration/</link>
       <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
       
@@ -112,11 +157,110 @@
     </item>
     
     <item>
-      <title>Iran</title>
+      <title>iran</title>
       <link>/tags/iran/</link>
       <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/iran/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>marathon</title>
+      <link>/tags/marathon/</link>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/marathon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mortality</title>
+      <link>/tags/mortality/</link>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/mortality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>negotiations</title>
+      <link>/tags/negotiations/</link>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/negotiations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nyc</title>
+      <link>/tags/nyc/</link>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/nyc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pronoun</title>
+      <link>/tags/pronoun/</link>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/pronoun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pronouns</title>
+      <link>/tags/pronouns/</link>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/pronouns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>psychology</title>
+      <link>/tags/psychology/</link>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/psychology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rankings</title>
+      <link>/tags/rankings/</link>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/rankings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>refugees</title>
+      <link>/tags/refugees/</link>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/refugees/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>running</title>
+      <link>/tags/running/</link>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/running/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>writing</title>
+      <link>/tags/writing/</link>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/writing/</guid>
       <description></description>
     </item>
     
@@ -126,96 +270,6 @@
       <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/israel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Marathon</title>
-      <link>/tags/marathon/</link>
-      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/marathon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mortality</title>
-      <link>/tags/mortality/</link>
-      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/mortality/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Negotiations</title>
-      <link>/tags/negotiations/</link>
-      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/negotiations/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nyc</title>
-      <link>/tags/nyc/</link>
-      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/nyc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pronoun</title>
-      <link>/tags/pronoun/</link>
-      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/pronoun/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pronouns</title>
-      <link>/tags/pronouns/</link>
-      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/pronouns/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Psychology</title>
-      <link>/tags/psychology/</link>
-      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/psychology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rankings</title>
-      <link>/tags/rankings/</link>
-      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/rankings/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Refugees</title>
-      <link>/tags/refugees/</link>
-      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/refugees/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Running</title>
-      <link>/tags/running/</link>
-      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/running/</guid>
       <description></description>
     </item>
     
@@ -234,15 +288,6 @@
       <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/war/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Writing</title>
-      <link>/tags/writing/</link>
-      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/writing/</guid>
       <description></description>
     </item>
     
