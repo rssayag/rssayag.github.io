@@ -253,11 +253,6 @@
   </url>
   
   <url>
-    <loc>/page/about/</loc>
-    <lastmod>2015-04-03T02:13:50+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/page/contact/</loc>
     <lastmod>2015-04-03T02:13:50+00:00</lastmod>
   </url>
@@ -275,6 +270,10 @@
   <url>
     <loc>/project/</loc>
     <lastmod>2014-11-18T02:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/page/about/</loc>
   </url>
   
 </urlset>
