@@ -1,0 +1,51 @@
+---
+title: 'Difference-in-differences for causal inference '
+author: Rei Sayag
+date: '2020-01-21'
+slug: difference-in-differences-for-causal-inference
+categories: []
+tags:
+  - R
+  - economics
+  - causal inference
+description: ''
+---
+
+```{r echo = FALSE}
+
+library(dplyr)
+library(tidyr)
+
+df <- read.csv('public.csv', sep = '', header = FALSE)
+
+df <- df[,c(1,2,3,4,12,32)]
+names(df) <- c('id', 'chain', 'co_owned', 'new_jersey', 't1', 't2')
+df[df == '.'] <- NA
+
+df <- df %>%
+  gather(time, employment, t1:t2) %>%
+  mutate(employment = as.numeric(employment))
+
+write.csv(df, file = 'card_and_krueger_1994.csv', row.names = FALSE)
+
+```
+
+
+```{r}
+
+df <- read.csv('card_and_krueger_1994.csv', header = TRUE)
+
+
+fit <- lm(employment ~ time + new_jersey + time:new_jersey, data = df)
+summary(fit)
+
+```
+
+
+
+
+
+
+
+
+

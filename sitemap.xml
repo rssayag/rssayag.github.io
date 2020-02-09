@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2020/02/09/2020-02-09-testthis/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/causal-inference/</loc>
     <lastmod>2020-01-21T00:00:00+00:00</lastmod>
   </url>
@@ -14,16 +29,6 @@
   
   <url>
     <loc>/tags/economics/</loc>
-    <lastmod>2020-01-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2020-01-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
     <lastmod>2020-01-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -228,17 +233,37 @@
   </url>
   
   <url>
-    <loc>/page/about/</loc>
-    <lastmod>2019-01-01T02:13:50+00:00</lastmod>
+    <loc>/2015/07/23/2015-07-23-r-rmarkdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/page/</loc>
-    <lastmod>2019-01-01T02:13:50+00:00</lastmod>
+    <loc>/tags/plot/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/r-markdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/regression/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/page/about/</loc>
+    <lastmod>2015-04-03T02:13:50+00:00</lastmod>
   </url>
   
   <url>
     <loc>/page/contact/</loc>
+    <lastmod>2015-04-03T02:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/page/</loc>
     <lastmod>2015-04-03T02:13:50+00:00</lastmod>
   </url>
   
