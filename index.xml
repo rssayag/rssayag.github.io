@@ -7,19 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Rei Sayag</copyright>
-    <lastBuildDate>Tue, 21 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Difference-in-differences for causal inference </title>
-      <link>/2020/01/21/2020-01-21-difference-in-difference-for-causal-inference/</link>
-      <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/2020/01/21/2020-01-21-difference-in-difference-for-causal-inference/</guid>
-      <description>## ## Attaching package: &amp;#39;dplyr&amp;#39; ## The following objects are masked from &amp;#39;package:stats&amp;#39;: ## ## filter, lag ## The following objects are masked from &amp;#39;package:base&amp;#39;: ## ## intersect, setdiff, setequal, union ## Warning: attributes are not identical across measure variables; ## they will be dropped df &amp;lt;- read.csv(&amp;#39;card_and_krueger_1994.csv&amp;#39;, header = TRUE) fit &amp;lt;- lm(employment ~ time + new_jersey + time:new_jersey, data = df) summary(fit) ## ## Call: ## lm(formula = employment ~ time + new_jersey + time:new_jersey, ## data = df) ## ## Residuals: ## Min 1Q Median 3Q Max ## -10.</description>
-    </item>
     
     <item>
       <title>Framing matters</title>
